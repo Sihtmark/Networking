@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='FirstSnippet'/>
+        <page name='SecondSnippet'/>
+        <page name='ThirdSnippet'/>
+        <page name='FourthSnippet'/>
+        <page name='FifthSnippet'/>
+        <page name='SixthSnippet'/>
+        <page name='SeventhSnippet'/>
+        <page name='EightSnippet'/>
+        <page name='JSON_1'/>
+        <page name='JSON_2'/>
+        <page name='JSON_3'/>
+    </pages>
+</playground>
